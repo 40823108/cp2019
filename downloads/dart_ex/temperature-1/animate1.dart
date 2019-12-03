@@ -59,3 +59,6 @@ main() {
       print("華氏 $number 度 = 攝氏 ${FtoC(number)} 度");
     }
       
+  } // for
+} // main
+      
